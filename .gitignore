@@ -1,0 +1,29 @@
+﻿# Dependencias
+/node_modules
+/.pnpm
+/.yarn
+
+# Compilación y builds de Next.js
+/.next/
+/out/
+/build
+/dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Variables de entorno locales
+.env*.local
+.env
+
+# Archivos del sistema y editores
+.DS_Store
+*.pem
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
